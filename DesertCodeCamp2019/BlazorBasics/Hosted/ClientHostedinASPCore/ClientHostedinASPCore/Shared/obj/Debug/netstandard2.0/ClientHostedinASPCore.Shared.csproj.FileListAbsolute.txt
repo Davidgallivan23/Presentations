@@ -1,0 +1,16 @@
+D:\temp\DesertCodeCamp2019\BlazorBasics\Hosted\ClientHostedinASPCore\ClientHostedinASPCore\Shared\bin\Debug\netstandard2.0\ClientHostedinASPCore.Shared.deps.json
+D:\temp\DesertCodeCamp2019\BlazorBasics\Hosted\ClientHostedinASPCore\ClientHostedinASPCore\Shared\bin\Debug\netstandard2.0\ClientHostedinASPCore.Shared.dll
+D:\temp\DesertCodeCamp2019\BlazorBasics\Hosted\ClientHostedinASPCore\ClientHostedinASPCore\Shared\bin\Debug\netstandard2.0\ClientHostedinASPCore.Shared.pdb
+D:\temp\DesertCodeCamp2019\BlazorBasics\Hosted\ClientHostedinASPCore\ClientHostedinASPCore\Shared\obj\Debug\netstandard2.0\ClientHostedinASPCore.Shared.csprojAssemblyReference.cache
+D:\temp\DesertCodeCamp2019\BlazorBasics\Hosted\ClientHostedinASPCore\ClientHostedinASPCore\Shared\obj\Debug\netstandard2.0\ClientHostedinASPCore.Shared.AssemblyInfoInputs.cache
+D:\temp\DesertCodeCamp2019\BlazorBasics\Hosted\ClientHostedinASPCore\ClientHostedinASPCore\Shared\obj\Debug\netstandard2.0\ClientHostedinASPCore.Shared.AssemblyInfo.cs
+D:\temp\DesertCodeCamp2019\BlazorBasics\Hosted\ClientHostedinASPCore\ClientHostedinASPCore\Shared\obj\Debug\netstandard2.0\ClientHostedinASPCore.Shared.dll
+D:\temp\DesertCodeCamp2019\BlazorBasics\Hosted\ClientHostedinASPCore\ClientHostedinASPCore\Shared\obj\Debug\netstandard2.0\ClientHostedinASPCore.Shared.pdb
+D:\CodingWithDavid\Conferences\Presentations\DesertCodeCamp2019\BlazorBasics\Hosted\ClientHostedinASPCore\ClientHostedinASPCore\Shared\bin\Debug\netstandard2.0\ClientHostedinASPCore.Shared.deps.json
+D:\CodingWithDavid\Conferences\Presentations\DesertCodeCamp2019\BlazorBasics\Hosted\ClientHostedinASPCore\ClientHostedinASPCore\Shared\bin\Debug\netstandard2.0\ClientHostedinASPCore.Shared.dll
+D:\CodingWithDavid\Conferences\Presentations\DesertCodeCamp2019\BlazorBasics\Hosted\ClientHostedinASPCore\ClientHostedinASPCore\Shared\bin\Debug\netstandard2.0\ClientHostedinASPCore.Shared.pdb
+D:\CodingWithDavid\Conferences\Presentations\DesertCodeCamp2019\BlazorBasics\Hosted\ClientHostedinASPCore\ClientHostedinASPCore\Shared\obj\Debug\netstandard2.0\ClientHostedinASPCore.Shared.csprojAssemblyReference.cache
+D:\CodingWithDavid\Conferences\Presentations\DesertCodeCamp2019\BlazorBasics\Hosted\ClientHostedinASPCore\ClientHostedinASPCore\Shared\obj\Debug\netstandard2.0\ClientHostedinASPCore.Shared.AssemblyInfoInputs.cache
+D:\CodingWithDavid\Conferences\Presentations\DesertCodeCamp2019\BlazorBasics\Hosted\ClientHostedinASPCore\ClientHostedinASPCore\Shared\obj\Debug\netstandard2.0\ClientHostedinASPCore.Shared.AssemblyInfo.cs
+D:\CodingWithDavid\Conferences\Presentations\DesertCodeCamp2019\BlazorBasics\Hosted\ClientHostedinASPCore\ClientHostedinASPCore\Shared\obj\Debug\netstandard2.0\ClientHostedinASPCore.Shared.dll
+D:\CodingWithDavid\Conferences\Presentations\DesertCodeCamp2019\BlazorBasics\Hosted\ClientHostedinASPCore\ClientHostedinASPCore\Shared\obj\Debug\netstandard2.0\ClientHostedinASPCore.Shared.pdb
